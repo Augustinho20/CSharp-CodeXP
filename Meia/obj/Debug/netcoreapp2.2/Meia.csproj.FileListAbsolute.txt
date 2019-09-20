@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Meia\bin\Debug\netcoreapp2.2\Meia.deps.json
+C:\Users\fic\Desktop\Csharp\Meia\bin\Debug\netcoreapp2.2\Meia.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Meia\bin\Debug\netcoreapp2.2\Meia.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Meia\bin\Debug\netcoreapp2.2\Meia.dll
+C:\Users\fic\Desktop\Csharp\Meia\bin\Debug\netcoreapp2.2\Meia.pdb
+C:\Users\fic\Desktop\Csharp\Meia\obj\Debug\netcoreapp2.2\Meia.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Meia\obj\Debug\netcoreapp2.2\Meia.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Meia\obj\Debug\netcoreapp2.2\Meia.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Meia\obj\Debug\netcoreapp2.2\Meia.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Meia\obj\Debug\netcoreapp2.2\Meia.dll
+C:\Users\fic\Desktop\Csharp\Meia\obj\Debug\netcoreapp2.2\Meia.pdb

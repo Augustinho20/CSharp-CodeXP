@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Salario funcionario\bin\Debug\netcoreapp2.2\Salario funcionario.deps.json
+C:\Users\fic\Desktop\Csharp\Salario funcionario\bin\Debug\netcoreapp2.2\Salario funcionario.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Salario funcionario\bin\Debug\netcoreapp2.2\Salario funcionario.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Salario funcionario\bin\Debug\netcoreapp2.2\Salario funcionario.dll
+C:\Users\fic\Desktop\Csharp\Salario funcionario\bin\Debug\netcoreapp2.2\Salario funcionario.pdb
+C:\Users\fic\Desktop\Csharp\Salario funcionario\obj\Debug\netcoreapp2.2\Salario funcionario.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Salario funcionario\obj\Debug\netcoreapp2.2\Salario funcionario.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Salario funcionario\obj\Debug\netcoreapp2.2\Salario funcionario.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Salario funcionario\obj\Debug\netcoreapp2.2\Salario funcionario.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Salario funcionario\obj\Debug\netcoreapp2.2\Salario funcionario.dll
+C:\Users\fic\Desktop\Csharp\Salario funcionario\obj\Debug\netcoreapp2.2\Salario funcionario.pdb

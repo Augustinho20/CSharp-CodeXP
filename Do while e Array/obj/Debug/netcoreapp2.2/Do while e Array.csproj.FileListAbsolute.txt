@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Do while e Array\bin\Debug\netcoreapp2.2\Do while e Array.deps.json
+C:\Users\fic\Desktop\Csharp\Do while e Array\bin\Debug\netcoreapp2.2\Do while e Array.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Do while e Array\bin\Debug\netcoreapp2.2\Do while e Array.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Do while e Array\bin\Debug\netcoreapp2.2\Do while e Array.dll
+C:\Users\fic\Desktop\Csharp\Do while e Array\bin\Debug\netcoreapp2.2\Do while e Array.pdb
+C:\Users\fic\Desktop\Csharp\Do while e Array\obj\Debug\netcoreapp2.2\Do while e Array.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Do while e Array\obj\Debug\netcoreapp2.2\Do while e Array.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Do while e Array\obj\Debug\netcoreapp2.2\Do while e Array.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Do while e Array\obj\Debug\netcoreapp2.2\Do while e Array.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Do while e Array\obj\Debug\netcoreapp2.2\Do while e Array.dll
+C:\Users\fic\Desktop\Csharp\Do while e Array\obj\Debug\netcoreapp2.2\Do while e Array.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\EmailCom@\bin\Debug\netcoreapp2.2\EmailCom@.deps.json
+C:\Users\fic\Desktop\Csharp\EmailCom@\bin\Debug\netcoreapp2.2\EmailCom@.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\EmailCom@\bin\Debug\netcoreapp2.2\EmailCom@.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\EmailCom@\bin\Debug\netcoreapp2.2\EmailCom@.dll
+C:\Users\fic\Desktop\Csharp\EmailCom@\bin\Debug\netcoreapp2.2\EmailCom@.pdb
+C:\Users\fic\Desktop\Csharp\EmailCom@\obj\Debug\netcoreapp2.2\EmailCom@.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\EmailCom@\obj\Debug\netcoreapp2.2\EmailCom@.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\EmailCom@\obj\Debug\netcoreapp2.2\EmailCom@.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\EmailCom@\obj\Debug\netcoreapp2.2\EmailCom@.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\EmailCom@\obj\Debug\netcoreapp2.2\EmailCom@.dll
+C:\Users\fic\Desktop\Csharp\EmailCom@\obj\Debug\netcoreapp2.2\EmailCom@.pdb

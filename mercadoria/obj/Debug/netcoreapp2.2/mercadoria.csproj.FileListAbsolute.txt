@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\mercadoria\bin\Debug\netcoreapp2.2\mercadoria.deps.json
+C:\Users\fic\Desktop\Csharp\mercadoria\bin\Debug\netcoreapp2.2\mercadoria.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\mercadoria\bin\Debug\netcoreapp2.2\mercadoria.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\mercadoria\bin\Debug\netcoreapp2.2\mercadoria.dll
+C:\Users\fic\Desktop\Csharp\mercadoria\bin\Debug\netcoreapp2.2\mercadoria.pdb
+C:\Users\fic\Desktop\Csharp\mercadoria\obj\Debug\netcoreapp2.2\mercadoria.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\mercadoria\obj\Debug\netcoreapp2.2\mercadoria.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\mercadoria\obj\Debug\netcoreapp2.2\mercadoria.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\mercadoria\obj\Debug\netcoreapp2.2\mercadoria.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\mercadoria\obj\Debug\netcoreapp2.2\mercadoria.dll
+C:\Users\fic\Desktop\Csharp\mercadoria\obj\Debug\netcoreapp2.2\mercadoria.pdb

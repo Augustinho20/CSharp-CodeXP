@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Menu numeros\bin\Debug\netcoreapp2.2\Menu numeros.deps.json
+C:\Users\fic\Desktop\Csharp\Menu numeros\bin\Debug\netcoreapp2.2\Menu numeros.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Menu numeros\bin\Debug\netcoreapp2.2\Menu numeros.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Menu numeros\bin\Debug\netcoreapp2.2\Menu numeros.dll
+C:\Users\fic\Desktop\Csharp\Menu numeros\bin\Debug\netcoreapp2.2\Menu numeros.pdb
+C:\Users\fic\Desktop\Csharp\Menu numeros\obj\Debug\netcoreapp2.2\Menu numeros.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Menu numeros\obj\Debug\netcoreapp2.2\Menu numeros.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Menu numeros\obj\Debug\netcoreapp2.2\Menu numeros.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Menu numeros\obj\Debug\netcoreapp2.2\Menu numeros.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Menu numeros\obj\Debug\netcoreapp2.2\Menu numeros.dll
+C:\Users\fic\Desktop\Csharp\Menu numeros\obj\Debug\netcoreapp2.2\Menu numeros.pdb

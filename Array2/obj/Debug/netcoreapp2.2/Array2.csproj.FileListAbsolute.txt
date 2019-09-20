@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Array2\obj\Debug\netcoreapp2.2\Array2.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Array2\obj\Debug\netcoreapp2.2\Array2.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Array2\obj\Debug\netcoreapp2.2\Array2.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Array2\obj\Debug\netcoreapp2.2\Array2.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Array2\bin\Debug\netcoreapp2.2\Array2.deps.json
+C:\Users\fic\Desktop\Csharp\Array2\bin\Debug\netcoreapp2.2\Array2.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Array2\bin\Debug\netcoreapp2.2\Array2.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Array2\bin\Debug\netcoreapp2.2\Array2.dll
+C:\Users\fic\Desktop\Csharp\Array2\bin\Debug\netcoreapp2.2\Array2.pdb
+C:\Users\fic\Desktop\Csharp\Array2\obj\Debug\netcoreapp2.2\Array2.dll
+C:\Users\fic\Desktop\Csharp\Array2\obj\Debug\netcoreapp2.2\Array2.pdb

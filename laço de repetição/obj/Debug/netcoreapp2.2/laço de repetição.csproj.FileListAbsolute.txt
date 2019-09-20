@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\laço de repetição\bin\Debug\netcoreapp2.2\laço de repetição.deps.json
+C:\Users\fic\Desktop\Csharp\laço de repetição\bin\Debug\netcoreapp2.2\laço de repetição.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\laço de repetição\bin\Debug\netcoreapp2.2\laço de repetição.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\laço de repetição\bin\Debug\netcoreapp2.2\laço de repetição.dll
+C:\Users\fic\Desktop\Csharp\laço de repetição\bin\Debug\netcoreapp2.2\laço de repetição.pdb
+C:\Users\fic\Desktop\Csharp\laço de repetição\obj\Debug\netcoreapp2.2\laço de repetição.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\laço de repetição\obj\Debug\netcoreapp2.2\laço de repetição.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\laço de repetição\obj\Debug\netcoreapp2.2\laço de repetição.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\laço de repetição\obj\Debug\netcoreapp2.2\laço de repetição.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\laço de repetição\obj\Debug\netcoreapp2.2\laço de repetição.dll
+C:\Users\fic\Desktop\Csharp\laço de repetição\obj\Debug\netcoreapp2.2\laço de repetição.pdb

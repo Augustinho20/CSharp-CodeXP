@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\semana\obj\Debug\netcoreapp2.2\semana.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\semana\obj\Debug\netcoreapp2.2\semana.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\semana\obj\Debug\netcoreapp2.2\semana.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\semana\obj\Debug\netcoreapp2.2\semana.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\semana\bin\Debug\netcoreapp2.2\semana.deps.json
+C:\Users\fic\Desktop\Csharp\semana\bin\Debug\netcoreapp2.2\semana.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\semana\bin\Debug\netcoreapp2.2\semana.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\semana\bin\Debug\netcoreapp2.2\semana.dll
+C:\Users\fic\Desktop\Csharp\semana\bin\Debug\netcoreapp2.2\semana.pdb
+C:\Users\fic\Desktop\Csharp\semana\obj\Debug\netcoreapp2.2\semana.dll
+C:\Users\fic\Desktop\Csharp\semana\obj\Debug\netcoreapp2.2\semana.pdb

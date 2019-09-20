@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\IdadeNadador\bin\Debug\netcoreapp2.2\IdadeNadador.deps.json
+C:\Users\fic\Desktop\Csharp\IdadeNadador\bin\Debug\netcoreapp2.2\IdadeNadador.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\IdadeNadador\bin\Debug\netcoreapp2.2\IdadeNadador.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\IdadeNadador\bin\Debug\netcoreapp2.2\IdadeNadador.dll
+C:\Users\fic\Desktop\Csharp\IdadeNadador\bin\Debug\netcoreapp2.2\IdadeNadador.pdb
+C:\Users\fic\Desktop\Csharp\IdadeNadador\obj\Debug\netcoreapp2.2\IdadeNadador.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\IdadeNadador\obj\Debug\netcoreapp2.2\IdadeNadador.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\IdadeNadador\obj\Debug\netcoreapp2.2\IdadeNadador.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\IdadeNadador\obj\Debug\netcoreapp2.2\IdadeNadador.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\IdadeNadador\obj\Debug\netcoreapp2.2\IdadeNadador.dll
+C:\Users\fic\Desktop\Csharp\IdadeNadador\obj\Debug\netcoreapp2.2\IdadeNadador.pdb
